@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section about">
-            <h2 className="logo">TopShoes</h2>
+            <img src="/src/assets/Logo.png" alt="" width={'300px'}/>
             <p>
               Somos uma loja dedicada a oferecer os melhores tênis para você.
               Encontre os modelos mais recentes e exclusivos em nosso catálogo.

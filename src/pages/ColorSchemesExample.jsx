@@ -9,8 +9,7 @@ function ColorSchemesExample() {
       <Navbar bg="danger" variant="dark">
         <Container>
           <Navbar.Brand href="/">
-          <img alt='' src='' height="30" className="d-inline-block align-top"/>{''}
-          TopShoes
+          <img alt='' src='/src/assets/Logo.png' height="30" className="d-inline-block align-top"/>{''}
           </Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>

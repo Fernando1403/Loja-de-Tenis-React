@@ -1,0 +1,18 @@
+{
+    "produtos" : [
+        {
+            "id":1,
+            "descrição": "Tenis Vermelho",
+            "valoUnitário": 800,
+            "estoque": 30,
+            "img": ""
+        },
+        {
+            "id":2,
+            "descrição": "Tenis Azul",
+            "valoUnitário": 700,
+            "estoque": 22,
+            "img": ""
+        }
+    ]
+}

@@ -19,6 +19,9 @@ function Produto3(){
                 <Card.Text>
                 O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.
                 </Card.Text>
+                <Card.Text>
+                    Disponivel: 30
+                </Card.Text>
                 <Button variant="success">Comprar</Button>
                 </Card.Body>
                 </Card><br/>

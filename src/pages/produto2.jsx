@@ -19,6 +19,9 @@ function Produto2(){
                 <Card.Text>
                 A Nike Mercurial Dream Speed Superfly 8 Elite incorpora a maior força autoproclamada de Cristiano Ronaldo: o poder da mente e da meditação. Tons suaves de verde funcionam em conjunto com tons energizantes de roxo e amarelo, que criam uma chuteira que irradia positividade.
                 </Card.Text>
+                <Card.Text>
+                    Disponivel: 22
+                </Card.Text>
                 <Button variant="success">Comprar</Button>
                 </Card.Body>
                 </Card><br/>

@@ -10,9 +10,11 @@ function Menu (){
         <div>
             <ColorSchemesExample/><br/>
             <Carousel/><br/>
-            <Card/><br/>
-            <Card2/><br/>
-            <Card3/><br/>
+            <div className="row">
+                <Card/>
+                <Card2/>
+                <Card3/>
+            </div>
             <Footer/>
         </div>
     )

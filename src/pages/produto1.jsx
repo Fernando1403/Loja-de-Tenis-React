@@ -19,6 +19,9 @@ function Produto1(){
                 <Card.Text>
                 Light Silver and Ocean Bliss
                 </Card.Text>
+                <Card.Text>
+                    Disponivel: 7
+                </Card.Text>
                 <Button variant="success">Comprar</Button>
                 </Card.Body>
                 </Card><br/>

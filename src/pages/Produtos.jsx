@@ -1,8 +1,8 @@
 import ColorSchemesExample from './ColorSchemesExample';
 import Card from './card';
 import Footer from './Footer';
-import Card2 from './card2';
-import Card3 from './card3';
+//import Card2 from './card2';
+//import Card3 from './card3';
 
 import './Produtos.css'
 
@@ -16,8 +16,6 @@ function Produto(){
 
             <div className="row">
                 <Card/><br/>
-                <Card2/><br/>
-                <Card3/><br/>
             </div>
         </div>
             <Footer/>

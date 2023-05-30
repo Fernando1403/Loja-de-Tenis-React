@@ -1,28 +1,28 @@
-{
-    "produtos" : [
-        {
-            "id":1,
-            "nome":"Dunk Low Retro SE",
-            "descrição": "Light Silver and Ocean Bliss",
-            "valoUnitário": 899.99,
-            "estoque": 7,
-            "img": "https://imgnike-a.akamaihd.net/768x768/02630351.jpg"
-        },
-        {
-            "id":2,
-            "nome":"Chuteira Nike Superfly 8 Elite Campo",
-            "descrição": "A Nike Mercurial Dream Speed Superfly 8 Elite incorpora a maior força autoproclamada de Cristiano Ronaldo: o poder da mente e da meditação. Tons suaves de verde funcionam em conjunto com tons energizantes de roxo e amarelo, que criam uma chuteira que irradia positividade.",
-            "valoUnitário": 1529.99,
-            "estoque": 22,
-            "img": "https://imgnike-a.akamaihd.net/768x768/014957NX.jpg"
-        },
-        {
-            "id":3,
-            "nome":"Tênis Suede Classic XXI",
-            "descrição": "O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
-            "valoUnitário": 449.90,
-            "estoque": 30,
-            "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/385378/01/sv01/fnd/BRA/w/2000/h/2000/fmt/png"
-        }
-    ]
-}
+[{
+        "id": 1,
+        "nome": "Dunk Low Retro SE",
+        "descrição": "Light Silver and Ocean Bliss",
+        "preço": 899.99,
+        "estoque": 7,
+        "img": "https://imgnike-a.akamaihd.net/768x768/02630351.jpg",
+        "href":"/produto1"
+    },
+    {
+        "id": 2,
+        "nome": "Chuteira Nike Superfly 8 Elite Campo",
+        "descrição": "A Nike Mercurial Dream Speed Superfly 8 Elite incorpora a maior força autoproclamada de Cristiano Ronaldo: o poder da mente e da meditação. Tons suaves de verde funcionam em conjunto com tons energizantes de roxo e amarelo, que criam uma chuteira que irradia positividade.",
+        "preço": 1529.99,
+        "estoque": 22,
+        "img": "https://imgnike-a.akamaihd.net/768x768/014957NX.jpg",
+        "href":"/produto2"
+    },
+    {
+        "id": 3,
+        "nome": "Tênis Suede Classic XXI",
+        "descrição": "O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+        "preço": 449.99,
+        "estoque": 30,
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/385378/01/sv01/fnd/BRA/w/2000/h/2000/fmt/png",
+        "href":"/produto3"
+    }
+]

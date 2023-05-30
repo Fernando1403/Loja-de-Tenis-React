@@ -1,9 +1,9 @@
 import ColorSchemesExample from "./ColorSchemesExample"
 import Carousel from './carousel'
-import Card from './card'
-import Card2 from './card2'
+import Card1 from './card'
+//import Card2 from './card2'
 import Footer from './Footer'
-import Card3 from "./card3"
+//import Card3 from "./card3"
 
 function Menu (){
     return(
@@ -11,9 +11,7 @@ function Menu (){
             <ColorSchemesExample/><br/>
             <Carousel/><br/>
             <div className="row">
-                <Card/>
-                <Card2/>
-                <Card3/>
+                <Card1/>
             </div>
             <Footer/>
         </div>

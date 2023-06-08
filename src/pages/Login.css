@@ -1,0 +1,118 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html, body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.containerLogin {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(66, 66, 66);
+  color: white;
+}
+
+.containerLogin .headerLogin{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.containerLogin .headerLogin h3{
+  color:#F13C46;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-top: 5rem;
+}
+
+.containerLogin .headerLogin span{
+  padding-top: 14px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.containerLogin form{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.containerLogin form .inputContainerLogin {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.containerLogin form .inputContainerLogin label {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.containerLogin form .inputContainerLogin input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px;
+  width: 520px;
+  height: 49px;
+  border:1px solid #F13C46;
+  border-radius: 12px;
+  background-color: rgb(197, 197, 197);
+}
+
+.containerLogin form .ButtonLogin{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: none;
+  width: 260px;
+  height: 45px;
+  background:#F13C46;
+  border-radius:12px;
+  color: azure;
+}
+
+.containerLogin form .ButtonLoggin:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.containerLogin form .footerLogin{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 1rem 1.5rem 3rem ;
+}
+
+.containerLogin form .footerLogin p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+.containerLogin form .footerLogin a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-decoration-line: underline;
+  color: #F13C46;
+}

@@ -7,13 +7,15 @@ import Produtos from './pages/Produtos';
 import Produto1 from "./pages/produto1";
 import Produto2 from "./pages/produto2";
 import Produto3 from "./pages/produto3";
+import Login from "./pages/Login";
 
 function App() {
   return (
   <div>
     <BrowserRouter>
           <Routes>
-            <Route path="/" element={<Menu/>}/>
+          <Route path="/" element={<Login/>}/>
+            <Route path="/home" element={<Menu/>}/>
             <Route path="/produtos" element={<Produtos/>}/>
             <Route path="/sobre" element={<Sobre/>}/>
             <Route path="/contato" element={<Contato/>}/>
